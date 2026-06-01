@@ -3,6 +3,8 @@
 
 I specialize in building production-ready full-stack applications, high-throughput backend systems, and advanced multi-agent AI ecosystems. From designing async payroll engines that process thousands of records to choreographing agentic loops (MCP, LangGraph, CrewAI) for complex automation, I focus on system reliability, type safety, and premium user experiences.
 
+🔗 **Live Portfolio Website:** [https://akmalkhaniub.github.io](https://akmalkhaniub.github.io)
+
 ---
 
 ## 🛠️ Core Technology Stack
@@ -22,22 +24,32 @@ I specialize in building production-ready full-stack applications, high-throughp
 ### 📅 [AI Care Agency Rota Manager](https://github.com/akmalkhaniub/portfolio-ai-rota-manager)
 An AI-powered scheduling engine designed for care agencies. Allows coordinators to manage shifts, assign staff, and check compliance rules using natural language.
 *   **Tech Stack:** Next.js (App Router), Node.js/Express, TypeScript, PostgreSQL, Prisma, OpenAI function calling, Docker.
-*   **Key Feature:** Prevented double-bookings at the database constraint level and validated caregiver certifications before shift generation.
 
 ### 💸 [High-Throughput Async Payroll Engine](https://github.com/akmalkhaniub/django-payroll-engine)
 A robust and highly scalable async payroll processing system designed to handle large-scale calculations, timesheet approvals, and payslip generation.
 *   **Tech Stack:** Python, Django, Celery, Redis, MySQL, ReportLab PDF, Docker.
-*   **Key Feature:** Uses background celery tasks to process payroll batches asynchronously with detailed execution logs and error recovery mechanisms.
 
 ### 🏥 [Secure Healthcare Audit Vault](https://github.com/akmalkhaniub/healthcare-audit-vault)
 A secure document storage and clinical Q&A vault implementing Vector Search RAG for patient record retrieval.
 *   **Tech Stack:** Next.js, Node.js, PostgreSQL (pgvector), AWS S3, TypeScript, TailwindCSS.
-*   **Key Feature:** Implements Role-Based Access Control (RBAC), immutable audit logging, and precise citation retrieval to satisfy healthcare compliance.
 
 ### 🤖 [Agentic AI Applications Portfolio](https://github.com/akmalkhaniub/agentic-apps-portfolio)
 A unified workspace and interactive dashboard showcasing a fleet of **17 specialized AI agent microservices** performing real-world business tasks.
 *   **Tech Stack:** React/Vite (UI), LangGraph.js, Go (Kafka), Temporal.io, FastAPI, Hono, LiteLLM, Microsoft Presidio.
-*   **Key Feature:** Includes agents for autonomous coding (E2B sandboxing), fintech fraud mitigation, medical phone triage (Vapi/FastAPI), and visual QA testing.
+
+### 📝 [QuestionPaperAI: Assessment Platform](https://github.com/akmalkhaniub/QuestionPaperAI)
+An AI-powered intelligent assessment platform that streamlines test paper generation and student management through adaptive templates and question bank verification.
+*   **Tech Stack:** React, TypeScript, Express, PostgreSQL, OpenAI, Vite, Tailwind CSS.
+
+### 📚 [Python Interview Prep Suite](https://github.com/akmalkhaniub/python-interview-prep-suite)
+A comprehensive preparation suite of 16 structured Jupyter Notebooks covering advanced paradigms, memory management, and cross-cloud systems engineering.
+*   **Tech Stack:** Jupyter Notebooks, Python, Markdown.
+
+---
+
+## 📬 Get In Touch
+*   **Email:** [akmalkhaniub@gmail.com](mailto:akmalkhaniub@gmail.com) / [akmal.shahbaz@iub.edu.pk](mailto:akmal.shahbaz@iub.edu.pk)
+*   **LinkedIn:** [https://www.linkedin.com/in/akmal-khan-332000250/](https://www.linkedin.com/in/akmal-khan-332000250/)
 
 ---
 
