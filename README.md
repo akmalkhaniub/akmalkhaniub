@@ -50,11 +50,11 @@ I build end-to-end intelligent systems across the stack: **real-time full-duplex
 ## ✍️ Latest Deep-Tech Articles (From [444 Published Essays](https://akmalkhaniub.github.io/blog/index.html))
 
 - **[Engineering AdAiz: Designing an Agentic Advertising Platform with AdCP over MCP, 3-Round A2A Rate Negotiation, and LangGraph HITL Spend Gates](https://akmalkhaniub.github.io/blog/engineering-adaiz-agentic-advertising-adcp-mcp-a2a-langgraph-hitl.html)** *(Oct 25, 2026)*
-- **[Decoupling Reasoning from Authority: Architecting an Idempotent Enterprise Quote Engine with Copilot Studio, MCP, Azure APIM, and Foundry Evals](https://akmalkhaniub.github.io/blog/architecting-harbor-field-services-copilot-studio-azure-ai-foundry-apim-mcp.html)** *(Oct 25, 2026)*
-- **[Why Prompt-Level Coding Skills Drift: Benchmarking 24 AI Agent Skill Packs Across an 8-Domain Deterministic SDLC Evaluation Harness](https://akmalkhaniub.github.io/blog/benchmarking-ai-coding-agent-skills-8-domain-evaluation-harness.html)** *(Oct 25, 2026)*
+- **[Decoupling Reasoning from Authority: Architecting an Idempotent Enterprise Quote Engine with Copilot Studio, MCP, Azure APIM, and Foundry Evals](https://akmalkhaniub.github.io/blog/architecting-harbor-field-services-copilot-studio-azure-ai-foundry-apim-mcp.html)** *(Oct 22, 2026)*
+- **[Why Prompt-Level Coding Skills Drift: Benchmarking 24 AI Agent Skill Packs Across an 8-Domain Deterministic SDLC Evaluation Harness](https://akmalkhaniub.github.io/blog/benchmarking-ai-coding-agent-skills-8-domain-evaluation-harness.html)** *(Oct 20, 2026)*
 - **[Why Naive WebSocket Voice Agents Talk Over Users: Designing Sub-300ms Full-Duplex Barge-In with AudioWorklet Ring Buffers, Silero VAD, and LiveKit SIP](https://akmalkhaniub.github.io/blog/sub-300ms-full-duplex-voice-ai-audioworklet-silero-vad-livekit-sip-barge-in.html)** *(Oct 17, 2026)*
-- **[Inside the 10-Millisecond ISO 8583 Window: Designing Zero-Allocation JIT Card Authorization and 3-Way EOD Reconciliation in Go](https://akmalkhaniub.github.io/blog/iso-8583-jit-card-authorization-multi-currency-fx-3-way-eod-reconciliation-go.html)** *(Oct 17, 2026)*
-- **[Governing the Missing Middle: Why Static Rules Fail Autonomous Coding Agents after Step 20 — and How In-Flight Circuit Breakers Stop Scope Spill](https://akmalkhaniub.github.io/blog/governing-missing-middle-autonomous-coding-agents-in-flight-circuit-breakers-scope-spill.html)** *(Oct 17, 2026)*
+- **[Inside the 10-Millisecond ISO 8583 Window: Designing Zero-Allocation JIT Card Authorization and 3-Way EOD Reconciliation in Go](https://akmalkhaniub.github.io/blog/iso-8583-jit-card-authorization-multi-currency-fx-3-way-eod-reconciliation-go.html)** *(Oct 15, 2026)*
+- **[Governing the Missing Middle: Why Static Rules Fail Autonomous Coding Agents after Step 20 — and How In-Flight Circuit Breakers Stop Scope Spill](https://akmalkhaniub.github.io/blog/governing-missing-middle-autonomous-coding-agents-in-flight-circuit-breakers-scope-spill.html)** *(Oct 12, 2026)*
 
 ---
 
