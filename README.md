@@ -17,7 +17,8 @@ I build end-to-end intelligent systems across the stack: **real-time full-duplex
 
 | Domain | Production Technologies |
 | :--- | :--- |
-| **Agentic AI, Voice & RAG** | `LangGraph v1.x` · `FastMCP / MCP` · `A2A & AdCP Protocols` · `LiveKit SIP & WebRTC` · `Silero VAD v5 (ONNX)` · `pgvector / Qdrant Hybrid RRF` · `Claude 3.5 / Gemini Live / OpenAI` · `4-Gate CI Evals` |
+| **Agentic AI, Voice & RAG** | `LangGraph v1.x` · `LangChain LCEL` · `FastMCP / MCP` · `A2A & AdCP Protocols` · `LiveKit SIP & WebRTC` · `Silero VAD v5 (ONNX)` · `pgvector / Qdrant Hybrid RRF` · `Claude 3.5 / Gemini Live / OpenAI` · `4-Gate CI Evals` |
+| **Computer Vision, ML & RecSys** | `PyTorch 2.6+` · `TensorFlow` · `Scikit-learn` · `YOLO26 / YOLO11 (NMS-Free)` · `Detectron2 Mask R-CNN` · `Meta SAM 2` · `OpenCV (CLAHE / Homography)` · `Two-Tower RecSys & Cross-Encoders` · `ONNX Runtime (FP16/INT8) & TensorRT 10` |
 | **Systems, Backend & Async** | `Python 3.13+ (FastAPI, Django)` · `Go 1.25+` · `Rust 2024 (SIMD DSP)` · `Node.js (TypeScript, Hono, Express)` · `Redis / BullMQ / Celery / Kafka` · `DuckDB Parquet` · `Apache Airflow 3.0` |
 | **Frontend, Audio & Mobile** | `React 19` · `Next.js 16 (App Router)` · `Angular 21 Signals` · `TypeScript (Strict)` · `Web Audio API (AudioWorklet / SharedArrayBuffer)` · `React Native & Expo (RevenueCat)` |
 | **Cloud, Security & Governance** | `PostgreSQL 17 (HNSW, JSONB)` · `AWS (Bedrock, ECS, Chime SIP, S3)` · `Azure AI Foundry, APIM & Bicep IaC` · `GCP Cloud Run` · `SPIFFE/SPIRE Zero-Trust` · `Docker & GitHub Actions` |
@@ -44,6 +45,10 @@ I build end-to-end intelligent systems across the stack: **real-time full-duplex
 - **[OmniCard & FX: Sub-10ms ISO 8583 JIT Card Authorization Gateway in Go](https://github.com/akmalkhaniub/omnicard-fx)** — Zero-allocation 64-bit bitmap ISO 8583 parser, multi-currency FX pocket waterfall, and Maker-Checker governance in `Go 1.25+`. ([📖 Read Case Study](https://akmalkhaniub.github.io/blog/iso-8583-jit-card-authorization-multi-currency-fx-3-way-eod-reconciliation-go.html))
 - **[ReconMesh: EOD 3-Way Financial Reconciliation Engine in Go](https://github.com/akmalkhaniub/recon-mesh)** — Reconciles 10,000 multi-party transactions across internal double-entry ledgers, `CAMT.053` bank statements, and processor webhooks in `<50ms`.
 - **[SpecForge](https://github.com/akmalkhaniub/specforge)**, **[LeaseLogic AI](https://github.com/akmalkhaniub/leaselogic)** & **[ClaimPilot](https://github.com/akmalkhaniub/claim-pilot)** — Two-pass Claude 3.5 extraction pipelines, `pgvector` semantic deduplication, commercial lease NPV modeling, and deterministic insurance adjudication guardrails.
+
+### 4. 👁️ Computer Vision, Industrial AI & Multimodal Recommendation Systems
+- **[AegisVision AI: 3-Tier Industrial Visual Inspection, Retail Planogram Vision & Hybrid RAG CAPA Copilot](https://github.com/akmalkhaniub/aegisvision-ai)** — Combines `OpenCV` 3×3 planar homography & CLAHE calibration, sub-12ms `YOLO26` NMS-Free detection + `Detectron2` Mask R-CNN instance segmentation, uncertainty-routed `Meta SAM 2` zero-shot mask refinement (`Scikit-learn` IsolationForest OOD gate), `ONNX Runtime INT8` / `TensorRT 10` quantization (`5.21×` speedup, `126.6 FPS`), PSI drift telemetry, and `LangGraph` SOP root-cause CAPA generation (`IPC-A-610H`, `IATF 16949`, `FDA 21 CFR`, `GS1`).
+- **[NexusRec AI: Multimodal Visual-Semantic Retail Discovery & PyTorch Two-Tower Recommendation Engine](https://github.com/akmalkhaniub/nexusrec-ai)** — 4-stage personalization funnel combining `OpenCV`/`PyTorch` visual-semantic embeddings, a `PyTorch` Two-Tower neural retriever with in-batch negative InfoNCE training, `Qdrant` Universal Hybrid Search (Dense + BM25 RRF + payload inventory filters), `Scikit-learn` Cross-Encoder reranking + Thompson Sampling contextual bandits + Maximal Marginal Relevance (MMR) diversity, and a conversational `LangChain` shopping & spare-parts discovery assistant evaluated on `NDCG@10`, `Recall@10`, and `MRR`.
 
 ---
 
