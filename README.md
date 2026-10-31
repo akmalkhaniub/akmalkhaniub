@@ -2,8 +2,8 @@
 ### Senior Full Stack AI Engineer & Distributed Systems Architect
 
 [![Live Portfolio](https://img.shields.io/badge/Portfolio-akmalkhaniub.github.io-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://akmalkhaniub.github.io)
-[![Engineering Blog](https://img.shields.io/badge/Tech_Blog-444_Deep--Dive_Articles-7c3aed?style=for-the-badge&logo=rss&logoColor=white)](https://akmalkhaniub.github.io/blog/index.html)
-[![Projects Directory](https://img.shields.io/badge/Systems_Directory-108_Production_Projects-10b981?style=for-the-badge&logo=github&logoColor=white)](https://akmalkhaniub.github.io/projects.html)
+[![Engineering Blog](https://img.shields.io/badge/Tech_Blog-446_Deep--Dive_Articles-7c3aed?style=for-the-badge&logo=rss&logoColor=white)](https://akmalkhaniub.github.io/blog/index.html)
+[![Projects Directory](https://img.shields.io/badge/Systems_Directory-110_Production_Projects-10b981?style=for-the-badge&logo=github&logoColor=white)](https://akmalkhaniub.github.io/projects.html)
 [![Competitive Hackathons](https://img.shields.io/badge/AI_Hackathons-17_Sprints_(Devpost_·_NeurIPS_·_Kaggle)-f59e0b?style=for-the-badge&logo=trophy&logoColor=white)](https://akmalkhaniub.github.io/hackathons.html)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2563eb?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akmal-khan-332000250/)
 
@@ -25,7 +25,7 @@ I build end-to-end intelligent systems across the stack: **real-time full-duplex
 
 ---
 
-## 🌟 Flagship Production Systems (Selected from [108 Projects](https://akmalkhaniub.github.io/projects.html))
+## 🌟 Flagship Production Systems (Selected from [110 Projects](https://akmalkhaniub.github.io/projects.html))
 
 ### 1. 🎙️ Real-Time Voice AI, Carrier Telephony & Multimodal Broadcast
 - **[SawtOS: Carrier-Grade Real-Time LiveKit Voice, Telephony & Analytics Engine](https://github.com/akmalkhaniub/sawt-os)** — Dual-Engine Voice Router (Native S2S + Cascaded `Deepgram Nova-3` + `Groq Llama 3.3 70B` + `Cartesia Sonic`), `LiveKit SIP` trunking (`+1` US, `+966` KSA, `+971` UAE) with `<35ms` barge-in flush, sub-4ms `pgvector` RAG, and `Airflow 3.0` HIPAA ETL. ([📖 Read Barge-In Case Study](https://akmalkhaniub.github.io/blog/sub-300ms-full-duplex-voice-ai-audioworklet-silero-vad-livekit-sip-barge-in.html))
@@ -52,8 +52,10 @@ I build end-to-end intelligent systems across the stack: **real-time full-duplex
 
 ---
 
-## ✍️ Latest Deep-Tech Articles (From [444 Published Essays](https://akmalkhaniub.github.io/blog/index.html))
+## ✍️ Latest Deep-Tech Articles (From [446 Published Essays](https://akmalkhaniub.github.io/blog/index.html))
 
+- **[Engineering NexusRec AI: Multimodal Visual-Semantic Retail Discovery with PyTorch Two-Tower Retrieval, Qdrant Hybrid RRF, and Thompson Sampling Bandits](https://akmalkhaniub.github.io/blog/engineering-nexusrec-multimodal-two-tower-pytorch-qdrant-hybrid-rrf-recsys.html)** *(Oct 31, 2026)*
+- **[Architecting AegisVision AI: 3-Tier Industrial Visual Inspection with YOLO26 NMS-Free Detection, Detectron2 Mask R-CNN, SAM 2 Zero-Shot Cascades, and ONNX INT8 Quantization](https://akmalkhaniub.github.io/blog/architecting-aegisvision-3-tier-industrial-cv-yolo26-detectron2-sam2-onnx-rag.html)** *(Oct 28, 2026)*
 - **[Engineering AdAiz: Designing an Agentic Advertising Platform with AdCP over MCP, 3-Round A2A Rate Negotiation, and LangGraph HITL Spend Gates](https://akmalkhaniub.github.io/blog/engineering-adaiz-agentic-advertising-adcp-mcp-a2a-langgraph-hitl.html)** *(Oct 25, 2026)*
 - **[Decoupling Reasoning from Authority: Architecting an Idempotent Enterprise Quote Engine with Copilot Studio, MCP, Azure APIM, and Foundry Evals](https://akmalkhaniub.github.io/blog/architecting-harbor-field-services-copilot-studio-azure-ai-foundry-apim-mcp.html)** *(Oct 22, 2026)*
 - **[Why Prompt-Level Coding Skills Drift: Benchmarking 24 AI Agent Skill Packs Across an 8-Domain Deterministic SDLC Evaluation Harness](https://akmalkhaniub.github.io/blog/benchmarking-ai-coding-agent-skills-8-domain-evaluation-harness.html)** *(Oct 20, 2026)*
@@ -64,7 +66,7 @@ I build end-to-end intelligent systems across the stack: **real-time full-duplex
 ---
 
 ## 📬 Contact & Links
-- 🌐 **Portfolio & Full 108-Project Directory:** [https://akmalkhaniub.github.io/projects.html](https://akmalkhaniub.github.io/projects.html)
+- 🌐 **Portfolio & Full 110-Project Directory:** [https://akmalkhaniub.github.io/projects.html](https://akmalkhaniub.github.io/projects.html)
 - 🏆 **Competitive AI Hackathons Hub:** [https://akmalkhaniub.github.io/hackathons.html](https://akmalkhaniub.github.io/hackathons.html)
 - 🎓 **Google Scholar / 29 Research Publications:** [https://akmalkhaniub.github.io/publications.html](https://akmalkhaniub.github.io/publications.html)
 - 📧 **Email:** [akmalkhaniub@gmail.com](mailto:akmalkhaniub@gmail.com) · [akmal.shahbaz@iub.edu.pk](mailto:akmal.shahbaz@iub.edu.pk)
